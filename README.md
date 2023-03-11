@@ -13,4 +13,4 @@ leetcode study @ Asia University, Taiwan
 
 | Number | Acceptance | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
-|[0001](https://leetcode.com/problems/two-sum/)| * Two Sum|49.6%|Easy||
+|[0001](https://leetcode.com/problems/two-sum/)|49.6%| * Two Sum|Easy||
