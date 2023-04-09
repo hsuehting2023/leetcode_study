@@ -6,7 +6,7 @@ leetcode study @ Asia University, Taiwan
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 1 | 2 | 0 | 3 |
+| **Accepted** | 1 | 2 | 1 | 4 |
 | **Total** | 492 | 1044 | 463 | 1999 |
 
 ## Solutions
@@ -14,4 +14,5 @@ leetcode study @ Asia University, Taiwan
 | Number | Acceptance | Title | Difficulty | Favorite |
 |:----:|:----:|:----:|:----:|:----:|
 |[0001](https://leetcode.com/problems/two-sum/)|49.6%| * Two Sum|Easy||
-|[0015](https://leetcode.com/problems/3sum/)|32.5%| *3Sum |Medium||
+|[0004](https://leetcode.com/problems/median-of-two-sorted-arrays/)|49.6%| * median-of-two|Hard||
+|[0015](https://leetcode.com/problems/3sum/)|32.5%| *3Sum Medium||
