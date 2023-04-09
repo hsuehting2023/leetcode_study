@@ -6,7 +6,7 @@ leetcode study @ Asia University, Taiwan
 
 | | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|:---:|
-| **Accepted** | 1 | 2 | 1 | 4 |
+| **Accepted** | 2 | 2 | 1 | 5 |
 | **Total** | 492 | 1044 | 463 | 1999 |
 
 ## Solutions
